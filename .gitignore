@@ -54,3 +54,8 @@ docs/_build/
 
 venv
 .idea
+project_sample/project_sample.db
+.DS_Store
+
+project_sample/assets/
+bower_components/
