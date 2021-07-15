@@ -78,17 +78,17 @@ load_sample_data
 
 
 ## Images
-Home Page
+### Home Page
 ![home](readme_img/home.png)
 
-Schedule
+### Schedule
 ![schedule](readme_img/schedule.png)
 
-Full Calendar
+### Full Calendar
 ![full calendar](readme_img/calendar.png)
 
-Daily Calendar
+### Daily Calendar
 ![daily calendar](readme_img/daily.png)
 
-Weekly Calendar
+### Weekly Calendar
 ![weekly calendar](readme_img/week.png)
